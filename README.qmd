@@ -4,3 +4,25 @@ title: "Modelling recreational cycling: an open source, reproducible and nationa
 ---
 
 # Introduction
+
+<!-- This section could be a subsection.. -->
+# A typology of recreational cycling trips
+
+<!-- https://github.com/ITSLeeds/atumie/issues/906 -->
+
+- **Domestic** with cycle trips starting at a home or holiday accommodation location
+- **Park-and-cycle** trips where the cycle trip start point is not at home
+- **Cycle tourism**, where start and end trips are different
+- **Sport cycling**
+
+For each categories there are broadly four types of people who could be cycling:
+
+- Locals who live in close proximity to the area
+  - These people will tend to make domestic recreational trips
+  - Park-and-cycle trips are also common for locals
+- People from the county but not locals (e.g. within 10 km)
+  - These people will tend to make park-and-cycle trips
+- People within the county
+  - These people will likely be on holiday and start from their accommodation
+- People visiting from abroad
+  - These people will likely be on holiday and start from their accommodation, for any of the four trip types
